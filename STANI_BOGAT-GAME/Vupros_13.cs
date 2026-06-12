@@ -34,7 +34,7 @@ namespace STANI_BOGAT_GAME
         private void button3_Click(object sender, EventArgs e)
         {
             this.Hide();
-            var f = new ();
+            var f =  new Vupros_14();
             f.Show();
         }
 

@@ -55,7 +55,7 @@
             this.label2.Size = new System.Drawing.Size(674, 25);
             this.label2.TabIndex = 1;
             this.label2.Text = "Кой е създателят на периодичната таблица на химичните елементи?";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            
             // 
             // button1
             // 

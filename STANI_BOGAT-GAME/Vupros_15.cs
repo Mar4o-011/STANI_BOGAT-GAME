@@ -48,7 +48,7 @@ namespace STANI_BOGAT_GAME
         private void button5_Click(object sender, EventArgs e)
         {
             this.Hide();
-            var f = new ();
+            var f = new joker_15();
             f.Show();
         }
     }
